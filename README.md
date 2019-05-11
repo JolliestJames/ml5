@@ -23,3 +23,7 @@ Learning about neural networks with the [ml5.js](https://ml5js.org/) library.
 5) stinkhorn, carrion fungus with a confidence of 0.3150
 
 ![](https://upload.wikimedia.org/wikipedia/commons/0/0c/Poppy_-_geograph.org.uk_-_1355005.jpg)
+
+6) banded gecko with a confidence of 0.3395
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaKRLBLvvSb4iBelQxgtUe67QqT3T04Gf8kYo1Yr31-TkC8-1nMQ)
